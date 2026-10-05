@@ -63,3 +63,7 @@ agent-skills/
 3. Keep the body task-focused: *when to use*, *when not to*, and concrete steps.
 4. Put any helper scripts in `scripts/`, keep them dependency-light, and reference them from `SKILL.md` with their path relative to the skill directory.
 5. Add a row to the **Skills** table above.
+
+## License
+
+[MIT](LICENSE) &copy; 2026 William West
